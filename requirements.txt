@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+joblib
+torch
+torchvision
+matplotlib
+flask
+pulp

@@ -1,0 +1,11 @@
+age,income,gender,city,bought
+25,35000,Male,Kolkata,0
+32,54000,Female,Mumbai,1
+47,62000,Male,Delhi,1
+51,58000,Female,Bangalore,0
+29,43000,Male,Kolkata,0
+36,50000,Female,Chennai,1
+41,61000,Male,Mumbai,1
+33,39000,Female,Delhi,0
+27,42000,Male,Bangalore,0
+45,70000,Female,Chennai,1
